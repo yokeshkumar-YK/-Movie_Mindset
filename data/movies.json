@@ -1,0 +1,142 @@
+[
+  {
+    "id": "vikram",
+    "title": "Vikram",
+    "year": 2022,
+    "industry": "Kollywood",
+    "language": "Tamil",
+    "genre": ["Action", "Thriller", "Crime"],
+    "rating": 9,
+    "poster": "images/posters/vikram.png",
+    "watchedDate": "2026-08-20",
+    "review": [
+      "Vikram is an intense action thriller that immediately creates a mysterious and engaging atmosphere. The movie slowly builds its world and keeps the audience curious about what is really happening.",
+      "The action sequences are one of the biggest strengths of the movie. The way the characters are introduced and connected makes the story more interesting as it progresses.",
+      "I particularly enjoyed the second half because the movie becomes much more intense and delivers several memorable moments. The background score and visual presentation also add a lot to the overall experience.",
+      "Overall, Vikram was a highly entertaining experience for me. It successfully combines action, crime and thriller elements, making it one of the movies I really enjoyed watching."
+    ]
+  },
+  {
+    "id": "baahubali",
+    "title": "Baahubali: The Beginning",
+    "year": 2015,
+    "industry": "Tollywood",
+    "language": "Telugu",
+    "genre": ["Action", "Drama", "Fantasy"],
+    "rating": 8.5,
+    "poster": "images/posters/baahubali.png",
+    "watchedDate": "2026-08-28",
+    "review": [
+      "Baahubali: The Beginning is a grand historical fantasy experience with a strong sense of scale. From the opening scenes, the movie creates a world that feels larger than life.",
+      "The visual effects and action sequences were impressive, especially considering the scale of the story. The movie also does a good job of introducing its characters and building curiosity about their past.",
+      "The emotional parts of the story work well alongside the action. The relationship between the characters gives the movie more depth instead of making it only an action spectacle.",
+      "I enjoyed the overall cinematic experience and the way the movie ends by creating a strong curiosity for the next chapter. It is definitely a movie that stands out for its ambition and presentation."
+    ]
+  },
+  {
+    "id": "12th-fail",
+    "title": "12th Fail",
+    "year": 2023,
+    "industry": "Bollywood",
+    "language": "Hindi",
+    "genre": ["Drama", "Biography"],
+    "rating": 9.2,
+    "poster": "images/posters/12th-fail.png",
+    "watchedDate": "2026-08-30",
+    "review": [
+      "12th Fail is a simple but powerful movie about determination, failure and the importance of continuing to move forward. The story feels realistic and emotionally relatable.",
+      "What I liked most about the movie is that it does not try to make success look easy. The struggles faced by the main character make the journey feel genuine and inspiring.",
+      "The performances and writing make the emotional moments work naturally without feeling overly dramatic. The movie also gives a strong message about hard work and staying focused on your goal.",
+      "This was one of the movies that stayed in my mind even after watching it. I found it inspiring and meaningful, which is why I gave it a very high rating."
+    ]
+  },
+  {
+    "id": "interstellar",
+    "title": "Interstellar",
+    "year": 2014,
+    "industry": "Hollywood",
+    "language": "English",
+    "genre": ["Sci-Fi", "Drama", "Adventure"],
+    "rating": 9.8,
+    "poster": "images/posters/interstellar.png",
+    "watchedDate": "2026-09-01",
+    "review": [
+      "Interstellar is an emotional science-fiction movie that combines space exploration with a deeply personal story. The movie explores ideas about time, space, survival and human relationships.",
+      "The scale of the movie is incredible. The space sequences, planets and visual effects create a huge cinematic experience, while the emotional story keeps the movie grounded.",
+      "The music and atmosphere are also major strengths. Several scenes create a strong emotional impact because the scientific ideas and personal emotions are presented together.",
+      "For me, Interstellar is one of the most memorable movies I have watched. It is both visually impressive and emotionally powerful, so it currently sits among my highest-rated movies."
+    ]
+  },
+  {
+    "id": "Babita Singh Reporting",
+    "title": "Babita Singh Reporting (2026)",
+    "year": 2026,
+    "industry": "Bollywood",
+    "language": "Hindi",
+    "genre": ["Crime", "Drama", "Investigation"],
+    "rating": 9.0,
+    "poster": "images/posters/Babita_Singh_Reporting.png",
+    "watchedDate": "2026-09-03",
+    "review": [
+      "Babita Singh Reporting is a compelling film that delves into the world of journalism and the challenges faced by women in the industry. The movie presents a realistic portrayal of the struggles and triumphs of the protagonist.",
+      "The performances are outstanding, especially by the lead actress who brings depth and authenticity to her role. The storytelling is engaging and keeps the audience invested throughout.",
+      "The cinematography and direction are top-notch, creating a visually stunning experience of parallel line narration of married girl with social pressure and crime investigation. The film also tackles important social issues with sensitivity and nuance.",
+      "This is a must-watch for anyone interested in thought-provoking cinema. It combines strong performances with a well-crafted story, making it one of the most impactful films I have seen this year.",
+      "NOTABLES : Story track meet the start point with no clue zero start for few times make the audience confused but later it is explained with the help of investigation and social pressure."
+    ]
+  },
+  {
+    "id": "Unmadham",
+    "title": "Unmadham (2026)",
+    "year": 2026,
+    "industry": "Mollywood",
+    "language": "Malayalam",
+    "genre": ["Crime", "Thriller", "Drama"],
+    "rating": 8.5,
+    "poster": "images/posters/unmadham.png",
+    "watchedDate": "2026-09-05",
+    "review": [
+      "Unmadham is a gripping Malayalam thriller that creates a dark and mysterious atmosphere from the very beginning. The film slowly builds its story while keeping the audience curious about what is actually happening.",
+      "The performances are one of the major strengths of the movie. The characters feel grounded and natural, especially during the tense investigative and emotional moments.",
+      "The cinematography and overall visual treatment give the movie a gloomy and unsettling mood. The way the story reveals information gradually keeps the audience engaged and makes the investigation more interesting.",
+      "The film works well as a slow-burn thriller, rewarding the audience for paying attention to the small details. It is a good choice for viewers who enjoy mystery-driven Malayalam cinema.",
+      "NOTABLES : The movie takes its time to establish the characters and situation. The initial confusion may make the audience question the direction of the story, but the later revelations connect the pieces and make the earlier moments more meaningful."
+    ]
+  },
+  {
+    "id": "Annayum Rasoolum",
+    "title": "Annayum Rasoolum (2013)",
+    "year": 2013,
+    "industry": "Mollywood",
+    "language": "Malayalam",
+    "genre": ["Romance", "Drama"],
+    "rating": 9.0,
+    "poster": "images/posters/annayum_rasoolum.png",
+    "watchedDate": "2026-09-05",
+    "review": [
+      "Annayum Rasoolum is a beautifully grounded romantic drama that presents love in a very natural and realistic way. Instead of relying on conventional romantic moments, the film focuses on ordinary people, emotions and the complications surrounding their relationship.",
+      "The performances feel extremely natural and believable. The chemistry between the lead characters carries the emotional core of the film, while the supporting characters make the world of the story feel authentic.",
+      "The cinematography is one of the biggest highlights. The locations, lighting and visual composition create a warm and realistic atmosphere that perfectly matches the slow and emotional storytelling.",
+      "The film takes its time and allows the relationship to develop naturally. Its simplicity, silence and emotional restraint make the important moments much more powerful.",
+      "NOTABLES : The biggest strength of Annayum Rasoolum is its realistic portrayal of love. The movie does not try to make everything perfect, and the emotional ending leaves a lasting impact because of how naturally the story develops."
+    ]
+  },
+  {
+    "id": "I Am Game",
+    "title": "I Am Game (2026)",
+    "year": 2026,
+    "industry": "Mollywood",
+    "language": "Malayalam",
+    "genre": ["Action", "Crime", "Thriller"],
+    "rating": 6,
+    "poster": "images/posters/i_am_game.png",
+    "watchedDate": "2026-09-05",
+    "review": [
+      "I Am Game is a stylish crime thriller that immediately establishes a bold and unpredictable world. The film focuses on power, money and the dangerous people operating within that world.",
+      "The lead performance gives the movie its attitude and personality. The character has a confident screen presence, while the supporting cast adds intensity to the criminal environment surrounding him.",
+      "The visual presentation is one of the strongest aspects of the film. The dark lighting, red-toned atmosphere and stylish compositions give the movie a distinctive identity and make several sequences visually memorable.",
+      "The movie maintains a fast and entertaining pace with action, crime elements and moments of suspense. It works particularly well as a stylish commercial thriller rather than a purely realistic crime drama.",
+      "NOTABLES : The film's presentation and central character are its biggest highlights. Some story elements may feel exaggerated, but the strong visual style, action moments and confident performances keep the movie entertaining throughout."
+    ]
+  }
+]

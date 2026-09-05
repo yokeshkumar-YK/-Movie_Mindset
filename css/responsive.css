@@ -1,0 +1,628 @@
+/* =========================================================
+   MOVIE MINDSET
+   Responsive Styles
+========================================================= */
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 1000px) {
+
+    .hero-container {
+        grid-template-columns: 1fr;
+    }
+
+    .hero-decoration {
+        display: none;
+    }
+
+
+    .movie-grid,
+    .collection-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+
+    .intro-container {
+        grid-template-columns: 1fr;
+
+        gap: 40px;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL TABLET
+========================================================= */
+
+@media (max-width: 800px) {
+
+    .nav-container {
+        min-height: 70px;
+    }
+
+    .main-nav {
+        gap: 18px;
+    }
+
+    .nav-button {
+        display: none;
+    }
+
+
+    .hero {
+        min-height: 580px;
+    }
+
+    .hero h1 {
+        font-size: 55px;
+    }
+
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .stat-item:nth-child(2) {
+        border-right: none;
+    }
+
+    .stat-item:nth-child(-n + 2) {
+        border-bottom: 1px solid var(--border);
+    }
+
+
+    .movie-grid,
+    .collection-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    .footer-container {
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        justify-content: center;
+
+        padding: 40px 0;
+    }
+
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 600px) {
+
+    .container {
+        width: min(92%, 1180px);
+    }
+
+
+    /* HEADER */
+
+    .nav-container {
+        min-height: 65px;
+    }
+
+    .logo {
+        font-size: 17px;
+    }
+
+    .logo-icon {
+        font-size: 21px;
+    }
+
+    .main-nav {
+        gap: 13px;
+    }
+
+    .nav-link {
+        font-size: 11px;
+    }
+
+    .nav-link.active::after {
+        bottom: -7px;
+    }
+
+
+    /* HERO */
+
+    .hero {
+        min-height: 570px;
+    }
+
+    .hero h1 {
+        font-size: 46px;
+
+        letter-spacing: -1px;
+    }
+
+    .hero-description {
+        font-size: 14px;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+
+        align-items: flex-start;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+
+    /* STATS */
+
+    .stat-item {
+        padding: 25px 10px;
+    }
+
+    .stat-number {
+        font-size: 23px;
+    }
+
+    .stat-label {
+        font-size: 9px;
+    }
+
+
+    /* SECTIONS */
+
+    .intro-section,
+    .top-rated-section {
+        padding: 75px 0;
+    }
+
+    .movies-section {
+        padding: 70px 0 80px;
+    }
+
+
+    .section-top {
+        align-items: flex-start;
+
+        flex-direction: column;
+
+        gap: 15px;
+    }
+
+    .section-top h2 {
+        font-size: 32px;
+    }
+
+
+    /* MOVIES */
+
+    .movie-grid,
+    .collection-grid {
+        grid-template-columns: repeat(2, 1fr);
+
+        gap: 12px;
+    }
+
+    .movie-info {
+        padding: 13px;
+    }
+
+    .movie-info h3 {
+        font-size: 14px;
+    }
+
+    .genre-list span {
+        font-size: 9px;
+    }
+
+    .review-link {
+        font-size: 10px;
+    }
+
+
+    /* TOP RATED */
+
+    .ranking-item {
+        grid-template-columns: 35px 50px 1fr;
+
+        gap: 10px;
+    }
+
+    .ranking-item img {
+        width: 45px;
+        height: 65px;
+    }
+
+    .ranking-rating {
+        grid-column: 3;
+
+        justify-self: start;
+
+        margin-top: -8px;
+    }
+
+
+    /* PAGE HERO */
+
+    .page-hero {
+        padding: 75px 0 60px;
+    }
+
+    .page-hero h1 {
+        font-size: 45px;
+    }
+
+    .page-hero p {
+        font-size: 14px;
+    }
+
+
+    /* MOVIE CONTROLS */
+
+    .movie-collection {
+        padding: 50px 0 80px;
+    }
+
+    .search-box {
+        max-width: none;
+    }
+
+    .filter-buttons {
+        gap: 6px;
+    }
+
+    .filter-btn {
+        padding: 8px 11px;
+
+        font-size: 10px;
+    }
+
+
+    /* RESULTS */
+
+    .results-header {
+        align-items: flex-start;
+
+        flex-direction: column;
+    }
+
+    .results-header select {
+        width: 100%;
+    }
+
+
+    /* FOOTER */
+
+    .footer-links {
+        flex-wrap: wrap;
+
+        gap: 15px;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        justify-content: center;
+
+        gap: 5px;
+
+        padding: 15px 0;
+    }
+
+}
+
+/* =========================================================
+   MOVIE DETAILS RESPONSIVE
+========================================================= */
+
+
+@media (max-width: 900px) {
+
+    .movie-detail-hero {
+        grid-template-columns: 280px 1fr;
+
+        gap: 40px;
+    }
+
+    .movie-detail-info h1 {
+        font-size: 48px;
+    }
+
+    .related-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+}
+
+
+@media (max-width: 700px) {
+
+    .movie-detail-hero {
+        grid-template-columns: 1fr;
+
+        gap: 40px;
+    }
+
+
+    .movie-detail-poster {
+        width: min(280px, 75%);
+
+        margin: 0 auto;
+    }
+
+
+    .movie-detail-info {
+        text-align: center;
+    }
+
+
+    .movie-detail-meta {
+        justify-content: center;
+    }
+
+
+    .detail-genres {
+        justify-content: center;
+    }
+
+
+    .my-rating {
+        justify-content: center;
+
+        text-align: left;
+    }
+
+
+    .watched-info {
+        justify-content: center;
+    }
+
+
+    .full-review {
+        margin-top: 70px;
+
+        padding-top: 60px;
+    }
+
+
+    .review-content p {
+        font-size: 14px;
+
+        line-height: 1.9;
+    }
+
+
+    .review-verdict {
+        align-items: flex-start;
+
+        flex-direction: column;
+    }
+
+
+    .related-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 500px) {
+
+    .movie-details-section {
+        padding: 40px 0 80px;
+    }
+
+
+    .back-link {
+        margin-bottom: 30px;
+    }
+
+
+    .movie-detail-info h1 {
+        font-size: 42px;
+    }
+
+
+    .my-rating {
+        gap: 12px;
+
+        padding: 15px;
+    }
+
+
+    .rating-number {
+        padding-right: 12px;
+    }
+
+
+    .rating-number strong {
+        font-size: 28px;
+    }
+
+
+    .rating-description strong {
+        font-size: 11px;
+    }
+
+
+    .rating-description span {
+        font-size: 9px;
+    }
+
+
+    .full-review {
+        margin-top: 60px;
+    }
+
+
+    .review-heading h2 {
+        font-size: 30px;
+    }
+
+
+    .related-section {
+        padding: 75px 0;
+    }
+
+}
+
+
+/* =========================================================
+   REVIEWS RESPONSIVE
+========================================================= */
+
+@media (max-width: 700px) {
+
+    .review-controls {
+        align-items: stretch;
+
+        flex-direction: column;
+    }
+
+    .review-controls .search-box {
+        max-width: none;
+    }
+
+    .review-controls select {
+        width: 100%;
+    }
+
+
+    .review-card {
+        grid-template-columns: 100px 1fr;
+
+        gap: 18px;
+
+        padding: 15px;
+    }
+
+
+    .review-card-top h2 {
+        font-size: 21px;
+    }
+
+
+    .review-card-rating strong {
+        font-size: 21px;
+    }
+
+
+    .review-card-meta {
+        font-size: 9px;
+
+        margin-bottom: 12px;
+    }
+
+
+    .review-preview {
+        font-size: 11px;
+
+        line-height: 1.6;
+    }
+
+
+    .review-card-bottom {
+        align-items: flex-start;
+
+        flex-direction: column;
+
+        gap: 10px;
+
+        margin-top: 15px;
+    }
+
+}
+
+
+@media (max-width: 450px) {
+
+    .review-card {
+        grid-template-columns: 80px 1fr;
+
+        gap: 12px;
+    }
+
+
+    .review-card-top {
+        display: block;
+    }
+
+
+    .review-card-rating {
+        margin-top: 8px;
+    }
+
+}
+
+/* =========================================================
+   ABOUT RESPONSIVE
+========================================================= */
+
+@media (max-width: 800px) {
+
+    .about-page {
+        padding: 70px 0;
+    }
+
+
+    .about-hero {
+        grid-template-columns: 1fr;
+
+        gap: 50px;
+
+        padding-bottom: 70px;
+    }
+
+
+    .about-intro {
+        text-align: center;
+    }
+
+
+    .rating-scale {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 500px) {
+
+    .profile-image {
+        width: 170px;
+        height: 170px;
+    }
+
+
+    .about-intro .about-lead {
+        font-size: 20px;
+    }
+
+
+    .about-intro p {
+        font-size: 13px;
+    }
+
+
+    .about-philosophy {
+        padding: 70px 0;
+    }
+
+
+    .rating-scale {
+        grid-template-columns: 1fr;
+    }
+
+
+    .about-quote {
+        margin-top: 70px;
+    }
+
+}
