@@ -57,7 +57,7 @@
     "industry": "Hollywood",
     "language": "English",
     "genre": ["Sci-Fi", "Drama", "Adventure"],
-    "rating": 9.8,
+    "rating": 9,
     "poster": "images/posters/interstellar.png",
     "watchedDate": "2026-09-01",
     "review": [
@@ -137,6 +137,78 @@
       "The visual presentation is one of the strongest aspects of the film. The dark lighting, red-toned atmosphere and stylish compositions give the movie a distinctive identity and make several sequences visually memorable.",
       "The movie maintains a fast and entertaining pace with action, crime elements and moments of suspense. It works particularly well as a stylish commercial thriller rather than a purely realistic crime drama.",
       "NOTABLES : The film's presentation and central character are its biggest highlights. Some story elements may feel exaggerated, but the strong visual style, action moments and confident performances keep the movie entertaining throughout."
+    ]
+  },
+  {
+    "id": "Rush",
+    "title": "Rush (2013)",
+    "year": 2013,
+    "industry": "Hollywood",
+    "language": "English",
+    "genre": ["Biography", "Drama", "Sport"],
+    "rating": 9,
+    "poster": "images/posters/rush.png",
+    "watchedDate": "2026-09-04",
+    "review": [
+      "Rush is a gripping biographical sports drama that captures the intense rivalry between Formula 1 drivers James Hunt and Niki Lauda during the 1976 season. The film combines racing, ambition, friendship and personal conflict into a highly engaging story.",
+      "Chris Hemsworth and Daniel Brühl deliver outstanding performances as James Hunt and Niki Lauda. Their contrasting personalities create the emotional and competitive core of the film, making their rivalry feel intense and deeply personal.",
+      "The racing sequences are one of the film's biggest strengths. The cinematography, editing and sound design create an immersive experience that makes the danger, speed and pressure of Formula 1 racing feel extremely real.",
+      "The movie balances the sporting rivalry with the personal lives of both drivers. James Hunt's reckless and charismatic personality contrasts effectively with Niki Lauda's disciplined and calculated approach, giving the story strong dramatic depth.",
+      "NOTABLES : The performances, Formula 1 racing sequences, Hans Zimmer's energetic score and the rivalry between Hunt and Lauda are the biggest highlights. Rush succeeds as both an exciting racing film and a compelling character-driven drama."
+    ]
+  },
+  {
+    "id": "Sir",
+    "title": "Sir (2018)",
+    "year": 2018,
+    "industry": "Bollywood",
+    "language": "Hindi",
+    "genre": ["Drama", "Romance"],
+    "rating": 9,
+    "poster": "images/posters/sir.png",
+    "watchedDate": "2026-09-08",
+    "review": [
+      "Sir is a beautifully restrained romantic drama that explores love, class differences and social barriers through the relationship between Ratna, a domestic worker, and Ashwin, a man from a wealthy family. The film tells its story through quiet moments rather than dramatic exaggeration.",
+      "Tillotama Shome gives a deeply natural and powerful performance as Ratna. Vivek Gomber complements her with a subtle performance as Ashwin, and the chemistry between the two characters develops gradually and convincingly.",
+      "The film's visual style is simple yet elegant. Mumbai's everyday spaces, intimate compositions and restrained cinematography create a realistic atmosphere that perfectly suits the film's quiet storytelling.",
+      "Rather than relying on conventional romance, the movie focuses on the emotional distance created by class and social expectations. The relationship between Ratna and Ashwin feels complicated because of the world around them, making the story more meaningful.",
+      "NOTABLES : Tillotama Shome's performance, the understated romance and the exploration of class inequality are the film's biggest strengths. Sir is a sensitive and mature romantic drama that leaves its impact through realism, silence and emotional restraint."
+    ]
+  },
+  {
+    "id": "Nightcrawler",
+    "title": "Nightcrawler (2014)",
+    "year": 2014,
+    "industry": "Hollywood",
+    "language": "English",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "rating": 8.5,
+    "poster": "images/posters/nightcrawler.png",
+    "watchedDate": "2026-09-08",
+    "review": [
+      "Nightcrawler is a dark and unsettling crime thriller that explores ambition, morality and the disturbing relationship between crime journalism and public fascination. The film follows Lou Bloom, a desperate and highly ambitious man who discovers the world of filming accidents, violence and crime scenes for television news.",
+      "Jake Gyllenhaal delivers an outstanding performance as Lou Bloom. His calm appearance, obsessive ambition and increasingly disturbing behaviour make the character fascinating to watch. The performance carries much of the psychological intensity of the movie.",
+      "The visual presentation is one of the film's biggest strengths. The nighttime Los Angeles setting, neon-lit streets and dark cinematography create an atmospheric world that perfectly matches the unsettling nature of the story.",
+      "The movie becomes increasingly tense as Lou crosses ethical boundaries in his pursuit of better footage and higher profits. Instead of presenting a conventional hero, the film follows a morally disturbing character and makes the audience uncomfortable while still keeping the story highly engaging.",
+      "NOTABLES : Jake Gyllenhaal's performance, the dark visual style, James Newton Howard's atmospheric score and the film's exploration of sensationalist journalism are its biggest highlights. Nightcrawler is a gripping psychological crime thriller that stays in the mind long after watching it."
+    ]
+  },
+  {
+    "id": "Ananthan Kaadu",
+    "title": "Ananthan Kaadu (2026)",
+    "year": 2026,
+    "industry": "Mollywood",
+    "language": "Malayalam",
+    "genre": ["Action", "Drama", "Thriller"],
+    "rating": 8.2,
+    "poster": "images/posters/ananthan_kaadu.png",
+    "watchedDate": "2026-09-08",
+    "review": [
+      "Ananthan Kaadu is an intense action drama set against a period of political unrest and growing conflict. The film creates a world shaped by authority, violence, survival and power struggles, giving the story a serious and tense atmosphere.",
+      "Arya delivers a strong performance in the lead role, bringing intensity and determination to the character. The supporting performances also add weight to the political and dramatic world surrounding the protagonist.",
+      "The film's action sequences and visual presentation are among its major strengths. The period setting, tense atmosphere and grounded presentation help create a serious cinematic experience rather than making the movie feel like a straightforward commercial action film.",
+      "The political backdrop gives the story additional depth. The movie explores themes of authority, resistance, survival and the consequences of individual decisions during a period of social and political instability.",
+      "NOTABLES : Arya's performance, the political backdrop, action sequences and the intense atmosphere are the biggest highlights. Ananthan Kaadu works as a serious action thriller with strong political and dramatic elements."
     ]
   }
 ]
