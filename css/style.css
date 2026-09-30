@@ -126,35 +126,38 @@ h3 {
 .logo {
     display: inline-flex;
     align-items: center;
-    gap: 10px;
+    width: 190px;
+    height: 64px;
+    overflow: hidden;
     white-space: nowrap;
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: -.5px;
+    transition: var(--transition);
+}
+
+.logo:hover {
+    transform: translateY(-1px);
 }
 
 .logo-icon {
-    width: 48px;
-    height: 48px;
-    display: grid;
-    place-items: center;
-    overflow: hidden;
-    border: 3px solid var(--cream);
-    border-radius: 50%;
-    background: var(--orange);
-    color: var(--paper);
-    box-shadow: none;
+    width: 100px;
+    height: 80px;
+    padding: 3px;
+    background: white;
+    border-radius: 22px;
 }
 
 .logo-icon img {
-    width: 78px;
-    height: 78px;
-    max-width: none;
-    object-fit: cover;
+    width: 100%;
+    height: 100%;
+
+    display: block;
+    object-fit: contain;
+
+    border-radius: 20px;
 }
 
+
 .logo-text {
-    color: var(--paper);
+    display: none;
 }
 
 .logo-text span {
@@ -1888,13 +1891,14 @@ h3 {
         width: min(92%, var(--container));
     }
 
-    .logo-text {
-        font-size: 20px;
+    .logo {
+        width: 165px;
+        height: 56px;
     }
 
     .logo-icon {
-        width: 42px;
-        height: 42px;
+        width: 100%;
+        height: 100%;
     }
 
     .nav-button {
